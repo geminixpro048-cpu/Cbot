@@ -1,0 +1,5 @@
+{
+  "name": "CBOT.pt Assistente de Contabilidade",
+  "description": "Um assistente de chat inteligente, powered by Gemini, para responder a todas as suas questões sobre contabilidade em Portugal. Obtenha respostas precisas e contextuais para as suas necessidades fiscais e financeiras.",
+  "requestFramePermissions": []
+}
